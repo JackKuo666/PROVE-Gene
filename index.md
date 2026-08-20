@@ -6,6 +6,14 @@ title: PROVE-Gene
 
 ## Evidence-to-Knowledge and File-to-Insight Workflows
 
+<p align="center">
+  <a href="assets/prove-gene-overview.png">
+    <img src="assets/prove-gene-overview.png" alt="Overview of PROVE-Gene" width="1200">
+  </a>
+</p>
+
+*Figure 1. Overview of PROVE-Gene: evidence-to-knowledge and file-to-insight workflows.*
+
 PROVE-Gene is an evidence-grounded workbench for gene knowledge discovery and inspectable data analysis. It brings together literature, figures, captions, gene records, and user-uploaded research files in a human-supervised research loop.
 
 ## Demonstration

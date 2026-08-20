@@ -2,6 +2,14 @@
 
 ## An Evidence-Grounded Workbench for Gene Knowledge and Inspectable Data Analysis
 
+<p align="center">
+  <a href="assets/prove-gene-overview.png">
+    <img src="assets/prove-gene-overview.png" alt="Overview of PROVE-Gene" width="1200">
+  </a>
+</p>
+
+*Figure 1. Overview of PROVE-Gene: evidence-to-knowledge and file-to-insight workflows.*
+
 PROVE-Gene is an interactive research workbench that connects literature- and figure-derived gene knowledge with user-file analysis. It supports evidence-aware exploration, structured knowledge extraction, and inspectable analytical workflows under a human-supervised research loop.
 
 > **Demo video:** To be added.
