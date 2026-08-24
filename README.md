@@ -14,7 +14,7 @@ PROVE-Gene is an interactive research workbench that connects literature- and fi
 
 > **Demo video:** To be added.
 >
-> **Live demo:** To be added, subject to deployment availability.
+> **Live demo:** [Open PROVE-Gene](https://jackkuo-prove-gene-demo.static.hf.space/index.html)
 
 ## What PROVE-Gene demonstrates
 
