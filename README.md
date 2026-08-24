@@ -12,7 +12,7 @@
 
 PROVE-Gene is an interactive research workbench that connects literature- and figure-derived gene knowledge with user-file analysis. It supports evidence-aware exploration, structured knowledge extraction, and inspectable analytical workflows under a human-supervised research loop.
 
-> **Demo video:** To be added.
+> **Demo video:** [Watch on YouTube](https://youtu.be/C1qSRFqTiyg)
 >
 > **Live demo:** [Open PROVE-Gene](https://jackkuo-prove-gene-demo.static.hf.space/index.html)
 
