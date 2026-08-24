@@ -20,7 +20,7 @@ PROVE-Gene is an evidence-grounded workbench for gene knowledge discovery and in
 
 **Walkthrough video:** To be added.
 
-**Live demo:** To be added, subject to deployment availability.
+**Live demo:** [Open PROVE-Gene](https://jackkuo-prove-gene-demo.static.hf.space/index.html)
 
 ## Capabilities
 
@@ -34,4 +34,4 @@ The current demonstration includes a representative GWAS-to-annotation workflow.
 
 ---
 
-[View the repository README](README.md)
+[View the repository on GitHub](https://github.com/JackKuo666/PROVE-Gene)
