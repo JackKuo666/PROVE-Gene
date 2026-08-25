@@ -20,7 +20,9 @@ PROVE-Gene is an evidence-grounded workbench for gene knowledge discovery and in
 
 **Walkthrough video:** [Watch on YouTube](https://youtu.be/dbPjRv-6Z_Q)
 
-**Live demo:** [Open PROVE-Gene](https://jackkuo-prove-gene-demo.static.hf.space/index.html)
+**Web interface preview:** [Open PROVE-Gene](https://jackkuo-prove-gene-demo.static.hf.space/index.html)
+
+This hosted page provides a static preview of the PROVE-Gene interface. The end-to-end system workflow is demonstrated in the accompanying video; backend services are not exposed through the public preview.
 
 ## Capabilities
 
