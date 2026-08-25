@@ -18,7 +18,7 @@ PROVE-Gene is an evidence-grounded workbench for gene knowledge discovery and in
 
 ## Demonstration
 
-**Walkthrough video:** [Watch on YouTube](https://youtu.be/C1qSRFqTiyg)
+**Walkthrough video:** [Watch on YouTube](https://youtu.be/dbPjRv-6Z_Q)
 
 **Live demo:** [Open PROVE-Gene](https://jackkuo-prove-gene-demo.static.hf.space/index.html)
 
